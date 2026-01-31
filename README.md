@@ -1,16 +1,18 @@
-## Hi there 👋
+Soy **Desarrolladora Web Full Stack & Analista de Datos** con enfoque en crear soluciones escalables y eficientes. Actualmente combino mi experiencia profesional con mis estudios en **Ingeniería en Informática**.
 
-<!--
-**yasminabigail/yasminabigail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Experiencia:** Desarrollo de aplicaciones web modernas, e-commerce y gestión de datos.
+- 🚀 **Enfoque:** Arquitectura limpia, performance y automatización de procesos.
+- ⚡ **Stack Principal:**
 
-Here are some ideas to get you started:
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, Figma, Tailwind |
+| **Backend** | Node.js, NestJS, Python (Data), C# .NET |
+| **Base de Datos** | PostgreSQL, SQL Server |
+| **CMS & E-com** | Shopify, WordPress, Wix Studio |
+| **Deploy** | Vercel, Azure, Cloud Services |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Lo que hago
+Transformo requerimientos complejos en código funcional, desde el diseño en **Figma** hasta el despliegue en **Vercel**. Me especializo tanto en el desarrollo de APIs robustas con **NestJS** como en el análisis y gestión de datos con **Python**.
